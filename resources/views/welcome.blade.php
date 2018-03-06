@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    圣财biubiu
+                    圣财biubiu~
                 </div>
 
                 <div class="links">
